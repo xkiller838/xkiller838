@@ -16,7 +16,7 @@
       <tr>
         <th style="border: 1px solid gray; padding: 8px;">Backend Languages</th>
         <th style="border: 1px solid gray; padding: 8px;">Frontend Languages</th>
-        <th style="border: 1px solid gray; padding: 8px;">CSS Languages</th>
+        <th style="border: 1px solid gray; padding: 8px;">Css Languages</th>
         <th style="border: 1px solid gray; padding: 8px;">Mobile Languages</th>
         <th style="border: 1px solid gray; padding: 8px;">Others</th>
       </tr>
