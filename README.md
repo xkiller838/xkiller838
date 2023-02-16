@@ -13,27 +13,27 @@
 <h3 align="left">Languages and Tools:</h3>
 
 
-<table style="border: 1px solid gray;">
+<table style="border-collapse: collapse; width: 100%;">
   <thead>
-    <tr>
-      <th>Lenguaje de Programación</th>
-      <th>Nivel de Experiencia</th>
+    <tr style="background-color: #ddd;">
+      <th style="padding: 10px;">Lenguajes de programación</th>
+      <th style="padding: 10px;">Nivel de experiencia</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>Java</td>
-      <td>
-        <div style="border: 1px solid gray; width: 50%;">Intermedio</div>
+      <td style="padding: 10px;">Java</td>
+      <td style="padding: 10px;">
+        <div style="background-color: #ddd; width: 50%; height: 20px; border-radius: 5px;"></div>
       </td>
     </tr>
     <tr>
-      <td>Python</td>
-      <td>
-        <div style="border: 1px solid gray; width: 75%;">Avanzado</div>
+      <td style="padding: 10px;">Python</td>
+      <td style="padding: 10px;">
+        <div style="background-color: #ddd; width: 75%; height: 20px; border-radius: 5px;"></div>
       </td>
     </tr>
-    <!-- Las demás filas de la tabla -->
+    <!-- Añade aquí las filas para los demás lenguajes -->
   </tbody>
 </table>
 
