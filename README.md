@@ -27,7 +27,7 @@
             </a>
           </td>
           <td>
-            <progress id="file" max="100" value="70" style="width: 50%; height: 100%; background-color: #007bff; border-radius: 5px;"> 70% </progress>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;20%
           </td>
         </tr>
         <tr>
@@ -37,7 +37,7 @@
             </a>
           </td>
           <td>
-            <div style="border: 1px solid gray; width: 75%">Avanzado</div>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;75%
           </td>
         </tr>
         <tr>
@@ -47,7 +47,7 @@
             </a>
           </td>
           <td>
-            <div style="border: 1px solid gray; width: 75%">Avanzado</div>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;75%
           </td>
         </tr>
         <tr>
@@ -67,7 +67,7 @@
             </a>
           </td>
           <td>
-            <div style="border: 1px solid gray; width: 75%">Avanzado</div>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;45%
           </td>
         </tr>
         <tr>
