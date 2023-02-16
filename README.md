@@ -57,7 +57,7 @@
             </a>
           </td>
           <td>
-            <div style="border: 1px solid gray; width: 75%">Avanzado</div>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;55%
           </td>
         </tr>
         <tr>
@@ -77,7 +77,7 @@
             </a>
           </td>
           <td>
-            <div style="border: 1px solid gray; width: 75%">Avanzado</div>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;65%
           </td>
         </tr>
         <tr>
@@ -87,7 +87,7 @@
             </a>
           </td>
           <td>
-            <div style="border: 1px solid gray; width: 75%">Avanzado</div>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;50%
           </td>
         </tr>
         <tr>
@@ -97,7 +97,7 @@
             </a>
           </td>
           <td>
-            <div style="border: 1px solid gray; width: 75%">Avanzado</div>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;77%
           </td>
         </tr>
         <tr>
@@ -107,7 +107,7 @@
             </a>
           </td>
           <td>
-            <div style="border: 1px solid gray; width: 75%">Avanzado</div>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;89%
           </td>
         </tr>
         <tr>
@@ -117,7 +117,7 @@
             </a>
           </td>
           <td>
-            <div style="border: 1px solid gray; width: 75%">Avanzado</div>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;65%
           </td>
         </tr>
         <tr>
@@ -127,7 +127,7 @@
             </a>
           </td>
           <td>
-            <div style="border: 1px solid gray; width: 75%">Avanzado</div>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;77%
           </td>
         </tr>
         <tr>
@@ -137,7 +137,7 @@
             </a>
           </td>
           <td>
-            <div style="border: 1px solid gray; width: 75%">Avanzado</div>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;45%
           </td>
         </tr>
         <tr>
@@ -147,7 +147,7 @@
             </a>
           </td>
           <td>
-            <div style="border: 1px solid gray; width: 75%">Avanzado</div>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;69%
           </td>
         </tr>
         <tr>
@@ -157,7 +157,7 @@
             </a>
           </td>
           <td>
-            <div style="border: 1px solid gray; width: 75%">Avanzado</div>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;35%
           </td>
         </tr>
         <tr>
@@ -167,7 +167,7 @@
             </a>
           </td>
           <td>
-            <div style="border: 1px solid gray; width: 75%">Avanzado</div>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;25%
           </td>
         </tr>
         <tr>
@@ -177,7 +177,7 @@
             </a>
           </td>
           <td>
-            <div style="border: 1px solid gray; width: 75%">Avanzado</div>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;70%
           </td>
         </tr>
         <tr>
@@ -189,7 +189,7 @@
             </a>
           </td>
           <td>
-            <div style="border: 1px solid gray; width: 75%">Avanzado</div>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;38%
           </td>
         </tr>
         <tr>
@@ -199,7 +199,7 @@
             </a>
           </td>
           <td>
-            <div style="border: 1px solid gray; width: 75%">Avanzado</div>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;45%
           </td>
         </tr>
         <tr>
@@ -209,7 +209,7 @@
             </a>
           </td>
           <td>
-            <div style="border: 1px solid gray; width: 75%">Avanzado</div>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;57%
           </td>
         </tr>
         <tr>
@@ -219,7 +219,7 @@
             </a>
           </td>
           <td>
-            <div style="border: 1px solid gray; width: 75%">Avanzado</div>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;65%
           </td>
         </tr>
         <tr>
@@ -229,7 +229,7 @@
             </a>
           </td>
           <td>
-            <div style="border: 1px solid gray; width: 75%">Avanzado</div>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;50%
           </td>
         </tr>
         <tr>
@@ -239,7 +239,7 @@
             </a>
           </td>
           <td>
-            <div style="border: 1px solid gray; width: 75%">Avanzado</div>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;40%
           </td>
         </tr>
         <!-- Las demás filas de la tabla -->
