@@ -1,3 +1,7 @@
+<p align="center"><img src="https://github.com/xkiller838/xkiller838/assets/33810066/1a729d2c-b9c3-4db9-b6ed-00ee19a1b753" alt="Developer" /></p>
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Time+new+Roman&size=25&pause=1000&color=080801&center=true&random=false&width=435&lines=Software+Engineer;Passionate+About+Programming" alt="Dev" /></p>
+
+
 <h1 align="center">Hi 👋, I'm Manuel</h1>
 <h3 align="center">A passionate backend/frontend developer from Colombia</h3>
 
